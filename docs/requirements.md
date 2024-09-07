@@ -22,7 +22,7 @@ _ [ ] El sistema cumple con mostrar cada opresión con texto
 
 ### Estilos de nave preestablecidos
 
-'O' indica que es una nave estática y 'X' indica que es una nave que se desliza. Los estilos preestablecidos de las naves serian los siguientes:
+__O__ indica que es una nave estática y __X__ indica que es una nave que se desliza. Los estilos preestablecidos de las naves serian los siguientes:
 
 - O
 - XO
