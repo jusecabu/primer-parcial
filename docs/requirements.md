@@ -2,7 +2,8 @@
 
 - [ ] El sistema debe de poder registrar un nuevo estilo de naves en caso tal que se autorice y ademas debe tener los otros 4 estilos de naves
 - [ ] El sistema debe verificar que un estilo no tenga dos naves __X__ sobre un mismo eje __O__
-- [ ] El sistema debe dejar iniciar la cotización
+- [ ] El sistema debe dejar registrar clientes
+- [ ] El sistema debe dejar iniciar y registrar las cotizaciones
 - [ ] El sistema debe dejar registrar cada ventana en la cotización actual
 - [ ] El sistema debe dejar ingresar el alto y ancho de toda la ventana
 - [ ] El sistema debe verificar que el alto y ancho sea mayor a $8cm \times 8cm$
@@ -14,8 +15,9 @@
 
 ## Requerimientos no funcionales
 
+- [ ] El sistema cumple con listar los cliente y cotizaciones
 - [ ] El sistema cumple con mostrar un menu textual
-_ [ ] El sistema cumple con mostrar cada opresión con texto
+- [ ] El sistema cumple con mostrar cada opresión con texto
 - [ ] El sistema cumple con adicionar un descuento después de comprar mas de 100 ventanas
 
 ## Detalles adicionales
@@ -28,6 +30,7 @@ __O__ indica que es una nave estática y __X__ indica que es una nave que se des
 - XO
 - OXO
 - OXXO
+- Otro debe ser aprobado por la gerencia
 
 ### Tabla de precios
 
