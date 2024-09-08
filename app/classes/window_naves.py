@@ -3,7 +3,7 @@ class WindowNaves:
         self.nave_type = nave_type
 
     def validate_size(self, width: int, height: int) -> bool:
-        naves = self.nave_type.count("")
+        naves = len(list(self.nave_type))
 
         if height < 8 or width < 8 * naves:
             return False
@@ -16,6 +16,6 @@ class WindowNaves:
         return x_naves
 
     def count_naves(self) -> int:
-        naves = self.nave_type.count("")
+        naves = len(list(self.nave_type))
 
         return naves
