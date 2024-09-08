@@ -1,5 +1,6 @@
 class WindowNaves:
     def __init__(self, nave_type: str) -> None:
+        #
         self.nave_type = nave_type
 
     def validate_size(self, width: int, height: int) -> bool:
