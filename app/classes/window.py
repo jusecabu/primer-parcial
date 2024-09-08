@@ -8,8 +8,8 @@ class Window:
         height: int,
         chapas: int,
         naves: int,
-        glass_type: int,
-        aluminum_style: int,
+        glass_type: float,
+        aluminum_style: float,
     ) -> None:
         self.width = width
         self.height = height
